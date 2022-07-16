@@ -125,3 +125,4 @@ console.log(document.querySelector('#name'))
 function clickRed(){
     document.querySelector("#name").style.color = "red";
 }
+
